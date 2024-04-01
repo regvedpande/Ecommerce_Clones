@@ -26,13 +26,13 @@ Welcome to the Responsive eCommerce Application Clone project! This meticulously
 1. **Clone the Repository**: 
 
 ```bash
-git clone https://github.com/yourusername/ecommerce-app.git
+git clone https://github.com/regvedpande/Ecommerce_Clones.git
 ```
 
 2. **Navigate to the Project Directory**: 
 
 ```bash
-cd ecommerce-app
+cd Ecommerce_Clones
 ```
 
 3. **Launch the Application**: Open the `index.html` file in your preferred web browser.
@@ -52,7 +52,7 @@ cd ecommerce-app
 
 ## Contributors
 
-- [Your Name](https://github.com/yourusername)
+- [Regved Pande](https://github.com/regvedpande)
 
 ## License
 
